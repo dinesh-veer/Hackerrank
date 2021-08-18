@@ -1,0 +1,13 @@
+{
+    "firstName": "",
+	"lastName": "Biden",
+    "email": "joe&sen.de.gov",
+    "mobilePhone": "202-555-6258",
+	"birthday": "1942-11-20",
+	"commPreference": "mobilePhone",
+	"mobileDevices": [
+        "iPhone",
+        "Samsung Galaxy",
+        ""
+    ]
+} 

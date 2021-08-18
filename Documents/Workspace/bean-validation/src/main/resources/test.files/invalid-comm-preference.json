@@ -1,0 +1,13 @@
+{
+    "firstName": "Elizabeth",
+	"lastName": "warren",
+    "email": "liz@sen.ma.gov",
+    "mobilePhone": "202-555-6258",
+	"birthday": "1949-06-22",
+	"commPreference": "phone",
+	"mobileDevices": [
+        "iPhone",
+        "Samsung Galaxy",
+        "iPad"
+    ]
+} 

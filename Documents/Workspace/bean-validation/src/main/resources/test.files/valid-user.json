@@ -1,0 +1,13 @@
+{
+    "firstName": "Bernie",
+	"lastName": "Sanders",
+    "email": "bernie@sen.vt.gov",
+    "mobilePhone": "202-555-8998",
+	"birthday": "1941-09-08",
+	"commPreference": "mobilePhone",
+	"mobileDevices": [
+        "iPhone",
+        "Samsung Galaxy",
+        "iPad"
+    ]
+}
